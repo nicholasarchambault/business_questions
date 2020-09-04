@@ -11,6 +11,6 @@ This project seeks to answer business questions about customer purchases, employ
    3. Examine sales by country in order to identify new opportunities for business growth.
    4. Advise on the implementation of new managerial policy which would purchase only the most popular tracks from albums, rather than every track.
 
-##Output
+## Output
 
 Complex SQL queries which draw qualitative and quantitative conclusions about the stated goals.
